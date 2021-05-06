@@ -1,4 +1,3 @@
-# in-progress
 # see:  https://www.geeksforgeeks.org/window-sliding-technique/
 # @param {Integer[]} data
 # @return {Integer}
